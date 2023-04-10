@@ -1,0 +1,60 @@
+/Users/hugh/Desktop/Attempt 2/bin/Debug/net7.0/Attempt 2
+/Users/hugh/Desktop/Attempt 2/bin/Debug/net7.0/Attempt 2.deps.json
+/Users/hugh/Desktop/Attempt 2/bin/Debug/net7.0/Attempt 2.runtimeconfig.json
+/Users/hugh/Desktop/Attempt 2/bin/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/Attempt 2/bin/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.csproj.AssemblyReference.cache
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.AssemblyInfoInputs.cache
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.AssemblyInfo.cs
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.csproj.CoreCompileInputs.cache
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/refint/Attempt 2.dll
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/Attempt 2.genruntimeconfig.cache
+/Users/hugh/Desktop/Attempt 2/obj/Debug/net7.0/ref/Attempt 2.dll
+/Users/hugh/Desktop/C#/Attempt 2/bin/Debug/net7.0/Attempt 2
+/Users/hugh/Desktop/C#/Attempt 2/bin/Debug/net7.0/Attempt 2.deps.json
+/Users/hugh/Desktop/C#/Attempt 2/bin/Debug/net7.0/Attempt 2.runtimeconfig.json
+/Users/hugh/Desktop/C#/Attempt 2/bin/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/C#/Attempt 2/bin/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.csproj.AssemblyReference.cache
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.AssemblyInfoInputs.cache
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.AssemblyInfo.cs
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.csproj.CoreCompileInputs.cache
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/refint/Attempt 2.dll
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/Attempt 2.genruntimeconfig.cache
+/Users/hugh/Desktop/C#/Attempt 2/obj/Debug/net7.0/ref/Attempt 2.dll
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.deps.json
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.runtimeconfig.json
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.csproj.AssemblyReference.cache
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.AssemblyInfoInputs.cache
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.AssemblyInfo.cs
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.csproj.CoreCompileInputs.cache
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/refint/Attempt 2.dll
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.genruntimeconfig.cache
+/Users/hugh/Desktop/Uni/INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/ref/Attempt 2.dll
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.deps.json
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.runtimeconfig.json
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/bin/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.csproj.AssemblyReference.cache
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.AssemblyInfoInputs.cache
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.AssemblyInfo.cs
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.csproj.CoreCompileInputs.cache
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.dll
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/refint/Attempt 2.dll
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.pdb
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/Attempt 2.genruntimeconfig.cache
+/Users/hugh/Desktop/ /INFO1111/C# codes/INFO1111-Level_A/obj/Debug/net7.0/ref/Attempt 2.dll
